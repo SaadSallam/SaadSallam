@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaadSallam
 - 👀 I’m interested in ... UI/UX
-- 🌱 I’m currently learning ... #Flutter
+- 🌱 I’m currently working with ... #Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
